@@ -26,7 +26,7 @@ app_license = "mit"
 
 # include js, css files in header of desk.html
 # app_include_css = "/assets/po_attachment_mandatory_validation/css/po_attachment_mandatory_validation.css"
-# app_include_js = "/assets/po_attachment_mandatory_validation/js/po_attachment_mandatory_validation.js"
+app_include_js = "/assets/po_attachment_mandatory_validation/js/purchase_order.js"
 
 # include js, css files in header of web template
 # web_include_css = "/assets/po_attachment_mandatory_validation/css/po_attachment_mandatory_validation.css"
@@ -138,11 +138,6 @@ app_license = "mit"
 # Hook on document methods and events
 
 # doc_events = {
-# 	"*": {
-# 		"on_update": "method",
-# 		"on_cancel": "method",
-# 		"on_trash": "method"
-# 	}
 # }
 
 # Scheduled Tasks

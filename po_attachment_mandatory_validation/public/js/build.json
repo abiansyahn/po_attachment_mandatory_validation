@@ -1,0 +1,5 @@
+{
+	"js/po_attachment_mandatory_validation.min.js": [
+		"public/js/purchase_order.js"
+	]
+}
