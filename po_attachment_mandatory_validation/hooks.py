@@ -237,3 +237,6 @@ app_include_js = "/assets/po_attachment_mandatory_validation/js/purchase_order.j
 # 	"Logging DocType Name": 30  # days to retain logs
 # }
 
+fixtures = [
+    {"dt": "PO Mandatory Attachment Settings"},
+]

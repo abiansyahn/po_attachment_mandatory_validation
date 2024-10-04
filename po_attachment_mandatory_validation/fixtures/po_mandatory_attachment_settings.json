@@ -1,0 +1,10 @@
+[
+ {
+  "attachment_mandatory": 1,
+  "docstatus": 0,
+  "doctype": "PO Mandatory Attachment Settings",
+  "modified": "2024-10-04 09:12:30.955344",
+  "name": "PO Mandatory Attachment Settings",
+  "workflow_state": "Waiting for PO Confirmation"
+ }
+]
